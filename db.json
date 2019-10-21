@@ -1,0 +1,22 @@
+[
+  {
+    "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}",
+    "type": "Card",
+    "attributes": {
+      "size": "S",
+      "preline": "Lorem Ipsum",
+      "headline": "Dolor Sit Amet",
+      "image": "/-/media/Project/Zurich/SoS/first_level_icons/icon_strategy_latest.svg"
+    }
+  },
+  {
+    "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}",
+    "type": "Card",
+    "attributes": {
+      "size": "S",
+      "preline": "Lorem Ipsum 2",
+      "headline": "Dolor Sit Amet 2",
+      "image": "/-/media/Project/Zurich/SoS/first_level_icons/icon_design.svg"
+    }
+  }
+]
