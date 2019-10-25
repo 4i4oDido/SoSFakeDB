@@ -18,7 +18,16 @@
     "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F3212}",
     "type": "Image",
     "attributes": {
-      "uri": "hhttps://sos-dev-single.azurewebsites.net/-/media/Project/Zurich/SoS/Strategy/Ecosystems/Ecosystems_Illustration_Ecosystem.png?h=1668&la=en&w=1668&hash=7652E803FBC04C0F5BE124DEFD24B45C"
+      "uri": "https://sos-dev-single.azurewebsites.net/-/media/Project/Zurich/SoS/Strategy/Ecosystems/Ecosystems_Illustration_Ecosystem.png?h=1668&la=en&w=1668&hash=7652E803FBC04C0F5BE124DEFD24B45C"
+      "width": "100%",
+      "height": "250"
+    }
+  },
+  {
+    "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32B1}",
+    "type": "RichText",
+    "attributes": {
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nec pulvinar diam, quis dapibus lacus. Cras vitae nulla id nisi porta molestie. Proin dapibus blandit posuere. Aliquam ultrices quam a urna luctus dictum. Suspendisse blandit ex vel ultrices tempor. Curabitur ac ex ut augue condimentum malesuada. "
     }
   }
 ]
