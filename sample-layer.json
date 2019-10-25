@@ -1,0 +1,23 @@
+[
+  {
+    "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F3212}",
+    "type": "Image",
+    "attributes": {
+      "uri": "https://suite.zurich.com/-/media/Project/Zurich/SoS/Illustrations/Mapping-the-customer-journey-2.png?h=190&la=en&w=256&hash=BB254C91C8717D6A9894297BAC22B062"
+    }
+  },
+  {
+    "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32B1}",
+    "type": "Heading",
+    "attributes": {
+      "content": "Mapping the Customer Journey",
+    }
+  },
+  {
+    "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32B1}",
+    "type": "RichText",
+    "attributes": {
+      "content": "Maecenas nec pulvinar velit. Cras eu ante nec mi finibus commodo non et mauris. Quisque eget leo nisi. Pellentesque a dui vitae sapien accumsan porttitor sed ac nunc. Fusce quis ante dignissim, congue tellus sed, vehicula nisl. Quisque ut finibus dolor. Etiam vel libero quis metus hendrerit faucibus.",
+    }
+  }
+]
