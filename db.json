@@ -3,17 +3,32 @@
     "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}",
     "type": "Card",
     "attributes": {
-      "size": "S",
-      "preline": "How we are improving the customer experience ",
-      "headline": "Mapping the Customer Journey",
+      "size": "L",
+      "hasbackground": true,
+      "category": "strategy",
+      "title": "Mapping the Customer Journey",
+      "description": "How we are improving the customer experience ",
+      "image": "https://suite.zurich.com/-/media/Project/Zurich/SoS/Illustrations/Mapping-the-customer-journey-2.png?h=190&la=en&w=256&hash=BB254C91C8717D6A9894297BAC22B062"
+    }
+  },
+    {
+    "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32B1}",
+    "type": "Card",
+    "attributes": {
+      "size": "L",
+      "hasbackground": false,
+      "category": "design",
+      "title": "Mapping the Customer Journey",
+      "description": "How we are improving the customer experience ",
       "image": "https://suite.zurich.com/-/media/Project/Zurich/SoS/Illustrations/Mapping-the-customer-journey-2.png?h=190&la=en&w=256&hash=BB254C91C8717D6A9894297BAC22B062"
     }
   },
   {
-    "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32B1}",
+    "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32B2}",
     "type": "Card",
     "attributes": {
-      "size": "S",
+      "size": "M",
+      "hasbackground": false,
       "preline": "Create mobile experiences using our mobile development kit",
       "headline": "Mobile App Development",
       "image": "https://suite.zurich.com/-/media/Project/Zurich/SoS/Campaign/Mobile-App-Capabilities/Agile-in-App-Development/Illustration--App-Development.png?h=256&la=en&w=256&hash=599EE35D1606322C384EF3703CA6F1F5"
