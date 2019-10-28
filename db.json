@@ -35,6 +35,18 @@
       "image": "https://sos-dev-single.azurewebsites.net/-/media/Project/Zurich/SoS/Design/Crowdsourcing/Crowsourcing_illustration-01.png?h=2086&la=en&w=2086&hash=5447911DBFE37AA61649AD7293873EAF"
     }
   },
+    {
+    "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32B9}",
+    "type": "Card",
+    "attributes": {
+      "size": "L",
+      "hasbackground": true,
+      "category": "design",
+      "title": "How to source the best talent from outside",
+      "description": "",
+      "image": "https://sos-dev-single.azurewebsites.net/-/media/Project/Zurich/SoS/Design/Crowdsourcing/Crowsourcing_illustration-01.png?h=2086&la=en&w=2086&hash=5447911DBFE37AA61649AD7293873EAF"
+    }
+  },
   {
     "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32B4}",
     "type": "Card",
