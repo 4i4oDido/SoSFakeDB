@@ -72,7 +72,7 @@
     }
   },
   {
-    "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32C4}",
+    "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F}",
     "type": "Card",
     "attributes": {
       "size": "S",
@@ -81,6 +81,18 @@
       "title": "SEO Web Development",
       "description": "",
       "image": "https://sos-dev-single.azurewebsites.net/-/media/Project/Zurich/SoS/Technology/Customer-led-technology-strategy/Customer-led-strategy_illustration.png?h=1667&la=en&w=1667&hash=B151696BB203D51EC7D82EB8031820CC"
+    }
+  },
+  {
+    "ID": "{B8C1A9D2-DE76-4519-AFF4-}",
+    "type": "Card",
+    "attributes": {
+      "size": "S",
+      "hasbackground": true,
+      "category": "",
+      "title": "Customer-led technology strategy",
+      "description": "",
+      "image": "https://sos-dev-single.azurewebsites.net/-/media/Project/Zurich/SoS/Technology/Customer-led-technology-strategy/Customer-led-strategy_01_technical-shift.png?h=1243&la=en&w=1601&hash=AEECD8DB42C1FFA67BFBBC4BC8A8B3BF"
     }
   }
 ]
