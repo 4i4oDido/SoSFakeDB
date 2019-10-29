@@ -35,7 +35,7 @@
       "image": "https://sos-dev-single.azurewebsites.net/-/media/Project/Zurich/SoS/Design/Crowdsourcing/Crowsourcing_illustration-01.png?h=2086&la=en&w=2086&hash=5447911DBFE37AA61649AD7293873EAF"
     }
   },
-    {
+  {
     "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32B9}",
     "type": "Card",
     "attributes": {
@@ -69,6 +69,18 @@
       "title": "Zurich Digital Experience",
       "description": "Design and develop compelling digital experiences using pre-defined Modules and Toolkit",
       "image": "https://sos-dev-single.azurewebsites.net/-/media/Project/Zurich/SoS/Illustrations/Mapping-the-customer-journey-3.png?h=166&la=en&w=256&hash=36543DE22510F7D609D67C81837D4A92"
+    }
+  },
+  {
+    "ID": "{B8C1A9D2-DE76-4519-AFF4-1442525F32C4}",
+    "type": "Card",
+    "attributes": {
+      "size": "S",
+      "hasbackground": true,
+      "category": "campaign",
+      "title": "SEO Web Development",
+      "description": "",
+      "image": "https://sos-dev-single.azurewebsites.net/-/media/Project/Zurich/SoS/Technology/Customer-led-technology-strategy/Customer-led-strategy_illustration.png?h=1667&la=en&w=1667&hash=B151696BB203D51EC7D82EB8031820CC"
     }
   }
 ]
